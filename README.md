@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning cloud native
 -->
 
-- 📫 If you have any questions, please contact me through email.
+- 📫  If you have any questions, please contact me through email.
 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=lahmXu&show_icons=true&theme=radical)
 
