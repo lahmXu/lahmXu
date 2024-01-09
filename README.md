@@ -25,4 +25,36 @@ Here are some ideas to get you started:
 
 -->
 
-🤔 To be, or not to be...
+<h2>hello, I'm lahmxu(拉哈姆)! </h2>
+<p><em>A Backend Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+### A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+
+```javascript
+const lahmxu = {
+    pronouns: "He" | "Him",
+    code: ["Java", "JavaScript", "Go", "Nodejs"],
+    askMeAbout: ["web dev", "tech"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+            go: ["Gin"]
+            java: ["Netty", "Spring", "MyBatis"]
+        },
+        frontEnd: {
+            js: ["Vue"]
+        },
+        devOps: ["Nginx", "Docker", "K8s"],
+        databases: ["Redis", "MySql", "InfluxDB"],
+        mq: ["emqx", "kafka", "Azure Eventhub"],
+        misc: ["Spark", "HDFS", "Socket.IO"]
+    },
+    current: "I am trying more",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>If you want to say hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
