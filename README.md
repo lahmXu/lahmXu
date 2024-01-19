@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 const lahmxu = {
     pronouns: "He" | "Him",
     code: ["Java", "JavaScript", "Go", "Nodejs"],
-    askMeAbout: ["web dev", "tech"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
